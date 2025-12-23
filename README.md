@@ -62,21 +62,8 @@ All required SQL queries are written and stored in the **`queries.sql`** file in
 
 ---
 
-## Viva (Theory Questions)
-Theory questions were answered in a recorded video (Bengali/English), covering:
-
-1. Foreign key and its importance
-2. Difference between WHERE and HAVING
-3. Primary key and its characteristics
-4. Difference between INNER JOIN and LEFT JOIN
-
-🔗 **Viva Video Link:** [Viva video](https://drive.google.com/drive/folders/1gZ3RR6bgDgEgMUb1gWTp_DDqGXM13437?usp=sharing)
-
----
-
 
 Additional submission links:
 - **GitHub Repository:** [Github repo](https://github.com/ahsanul0185/PHA-3)
 - **ERD Link:** [ER Diagram](https://lucid.app/lucidchart/8e555dac-1272-47c9-a6e1-ad53c5af598f/edit?viewport_loc=-1861%2C-595%2C2813%2C1568%2C0_0&invitationId=inv_e8eff148-3c05-449b-9211-20246eb51a76)
-- **Viva Video Link:** [Viva video](https://drive.google.com/drive/folders/1gZ3RR6bgDgEgMUb1gWTp_DDqGXM13437?usp=sharing)
 
